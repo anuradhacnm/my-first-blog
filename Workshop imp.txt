@@ -1,0 +1,31 @@
+Day 1:
+cloudBolt
+SmartExam
+FreeGeek
+New relic
+Meetup
+Bright.md
+line 
+
+Day 2:
+version control
+Techs used in the workshop
+-Python
+-Django
+-Database
+-HTML
+-CSS
+-JS
+
+File system
+Code editor
+terminal
+git command line
+pip and virtualenv
+github
+python anywhere
+
+Read about:
+Bletchley Park
+abby wambach
+
